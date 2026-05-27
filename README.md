@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/blackbar/main/blackbar/icon.png" alt="BlackBar Library Icon" width="200">
+  <img src="https://raw.githubusercontent.com/baraldi-daniel/blackbar/main/blackbar/icon.png" alt="BlackBar Library Icon" width="200">
 </p>
 
 <h1 align="center">BlackBar</h1>
